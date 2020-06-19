@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sap.cc</groupId>
-	<artifactId>spring-boot-skeleton</artifactId>
+	<artifactId>http-rest-java</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-skeleton</name>
-	<description>Demo project for Spring Boot</description>
+	<name>http-rest-java</name>
+
 
 	<properties>
 		<java.version>1.8</java.version>
